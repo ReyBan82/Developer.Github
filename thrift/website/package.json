@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "@docusaurus/core": "2.1.0",
-    "@docusaurus/preset-classic": "2.1.0",
+    "@docusaurus/preset-classic": "2.4.1",
     "@mdx-js/react": "^1.6.22",
     "clsx": "^1.1.1",
     "docusaurus-plugin-internaldocs-fb": "1.2.1",
